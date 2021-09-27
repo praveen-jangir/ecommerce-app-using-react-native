@@ -61,10 +61,6 @@ This Above Souce Code About E-commerce Mobile Application. In this APP you can s
 <details> 
   <summary><b>4. Download The Demo Fromv Playstore</b></summary>
     <a href ="https://play.google.com/store/apps/details?id=com.MMart"> Download Now </a><br>
-<details> 
-  <summary><b>💼 My Github Stats</b></summary>
-
-<img height="195em" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
 </details>
 
 <br>
