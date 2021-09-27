@@ -91,7 +91,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
 <details>	
   <summary><b>💼 My Github Stats</b></summary>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
+<img height="155em" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
 </details>
 
 <br>
