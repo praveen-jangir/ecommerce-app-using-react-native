@@ -1,3 +1,4 @@
+<p align="center">E-Commerce Mobile Application</p>
 <p align="center"><a>
     <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
   </a>
