@@ -1,6 +1,3 @@
-# ecommerce-app-using-react-native
-demo link : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40praveen2000/mart-0b4d0cfbeffb49b783675b2199ea9c2c-signed.apk
-<img src="https://cdn.dnaindia.com/sites/default/files/styles/third/public/2020/08/14/919253-amazon-new.jpg" />
 <!doctype html>
 <html>
 
@@ -32,7 +29,7 @@ demo link : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40p
       <a href="index.html">Project Title</a>
     </div>
     <a class="menu-button" tabindex="0" href="javascript:void(0)">
-      <img src="img/menu.png">
+      <img src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw">
     </a>
     <div class="menu-items flex-row-center flex-item">
       <a href="index.html" class="menu-index">Overview</a>
@@ -259,12 +256,12 @@ demo link : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40p
         </div>
         <div class="flex-row-space-between">
           <div class="flex-item flex-column">
-            <img class="image max-width-400" src="img/dummay-img.png">
+            <img class="image max-width-400" src="https://play-lh.googleusercontent.com/pkNE-YhScZfUJ9EfysLAQMYM15AB-JIJSiA16cHz0SOOglZIvPNoOeS3foXFVoX-eBo=w720-h310-rw">
             <p class="image-caption">Image Caption</p>
           </div>
           <div class="flex-item flex-column">
-            <a href="https://code-projects.org" target="_blank" class="image max-width-400">
-              <img src="img/dummay-img.png">
+            <a href="https://play-lh.googleusercontent.com/pkNE-YhScZfUJ9EfysLAQMYM15AB-JIJSiA16cHz0SOOglZIvPNoOeS3foXFVoX-eBo=w720-h310-rw" target="_blank" class="image max-width-400">
+              <img src="https://play-lh.googleusercontent.com/pkNE-YhScZfUJ9EfysLAQMYM15AB-JIJSiA16cHz0SOOglZIvPNoOeS3foXFVoX-eBo=w720-h310-rw">
             </a>
             <p class="image-caption">Image Button Caption</p>
           </div>
