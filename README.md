@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ankushsinghgandhi.github.io">
-    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/AS.gif" />
+    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
   </a>
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
