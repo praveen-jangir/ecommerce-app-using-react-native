@@ -25,29 +25,17 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
 
 <p align="center">
 
-  <a href="http://twitter.com/ankushsgandhi">
+  <a href="http://twitter.com/praveenjdjr">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/ankushsinghgandhi/">
+   <a href="https://www.linkedin.com/in/praveen-jangir/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/13790266/ankush-singh-gandhi?tab=profile">
+  <a href="https://stackoverflow.com/users/15096860/edu-gyan-arduino">
     <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
-  </a>
-    <a href="https://www.hackerrank.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
-  </a>
-  <a href="http://www.youtube.com/c/TechXtreme">
+  <a href="https://www.youtube.com/channel/UCXDNEg6GKI5yQRym1uLE8pg">
     <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerearth.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 </p>
 
