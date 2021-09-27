@@ -1,15 +1,15 @@
-<p align="center"><a href="https://ankushsinghgandhi.github.io">
+<p align="center"><a>
     <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
   </a>
 
-<p align="center">I believe Open Source is for EVERYONE.</p>
+<p align="center">Snapshorts Of The Application</p>
 
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://thumbs.dreamstime.com/b/google-play-store-icons-google-play-store-icons-editable-file-included-eps-176748269.jpg" />
   </a></b></p>
 
-### Glad to see you here! &nbsp; ![Vistor Badge](01)
+### Glad to see you here!
 
 This Above Souce Code About E-commerce Mobile Application. In this APP you can simple buy Fast food & Drinks.
 
