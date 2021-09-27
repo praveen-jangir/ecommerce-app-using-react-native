@@ -51,7 +51,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
   </a>
 </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
+<img align="right" height="250" width="375" alt="" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
 
 ### My GitHub stats, Blogs and Current work
 
