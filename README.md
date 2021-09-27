@@ -41,45 +41,30 @@ This Above Souce Code About E-commerce Mobile Application. In this APP you can s
 
 <img align="right" height="250" width="375" alt="" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
 
-### My GitHub stats, Blogs and Current work
+### To Run This Souce Code Follow These Steps
 
 <details> 
-  <summary><b>🚀 My Blogs</b></summary>
-    1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> Python Roadmap </a><br>
-    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> Markdown Cheat Sheet </a><br>
-    3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> Git & GitHuB CHEAT Sheet </a><br>
-    4.<a href ="https://dev.to/ankushsinghgandhi/docker-cheat-sheet-56cc"> Docker Cheat Sheet </a><br>
-    5.<a href ="https://dev.to/ankushsinghgandhi/tools-developers-should-know-4nk0"> Tools Developers Should Know<a><br>
+  <summary><b>1. Download Zip</b></summary>
+    <a href ="https://github.com/edugyangroup/ecommerce-app-using-react-native.git"> Download Now </a><br>
 </details>
 
 <details> 
-  <summary><b>💻 My YouTube Videos</b></summary>
-    1.<a href ="https://www.youtube.com/watch?v=qBmRhRc_iw4&t=568s"> VIBRANCE UX (old video made in 2017)</a><br>
-    2.<a href ="https://www.youtube.com/watch?v=5exF5Wr2h4o"> HacktoberFest2020- First Step to Start Your Open Source Journey</a><br>
-    3.<a href ="https://youtu.be/UvcI5G0bidQ"> 2020 Hacktoberfest Unboxing TShirt and Swags</a><br>
-   
+  <summary><b>2. cd ecommerce-app-using-react-native</b></summary>
+    <a href ="#">cd App Name/Project Name</a><br>   
 </details>
 
 <details> 
-  <summary><b>🎯  Currently Working on</b></summary>
-    1.<a href ="https://github.com/AnkushSinghGandhi/JavaTutorials"> Java </a><br>
-    2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
-    3.<a href ="https://github.com/AnkushSinghGandhi/DartaStructuresAndAlgorithms-tutorials"> Data Structures and Algo.</a><br>
-    4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
+  <summary><b>3. Run yarn install/npm install</b></summary>
+    <a href ="#"> Run yarn install/npm install </a><br>
 </details>
 
 <details> 
-  <summary><b>📧 What's Next</b></summary>
-    1. Adv. DSA <br>
-    2. DBMS <br>
-    3. Algo. with Java <br>
-    4. CS Theory (operating System, Networking, Compiler)<br>
-</details>
-
+  <summary><b>4. Download The Demo Fromv Playstore</b></summary>
+    <a href ="https://play.google.com/store/apps/details?id=com.MMart"> Download Now </a><br>
 <details> 
   <summary><b>💼 My Github Stats</b></summary>
 
-<img height="155em" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
+<img height="195em" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
 </details>
 
 <br>
@@ -89,6 +74,6 @@ This Above Souce Code About E-commerce Mobile Application. In this APP you can s
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thanks ❤️ For Visiting !
 
 </div>
