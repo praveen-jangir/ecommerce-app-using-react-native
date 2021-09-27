@@ -9,20 +9,20 @@
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
 
-### Glad to see you here! &nbsp; ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![Vistor Badge](01)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.Ask me about anything💬 [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
+This Above Souce Code About E-commerce Mobile Application. In this APP you can simple buy Fast food & Drinks.
 
-I'm also founder of The Tech Community. It is a community driven by tech enthusiasts and open source contributors to help young students to improve their technical skills and be a part of this technical era by providing webinars & workshops.
-
-And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about technology, marketing, entrepreneurship, and education. 
-
-I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
-
-Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
-
-2 New YouTube videos every month!!
-
+### Feature Of This Application
+<ul>
+  <li>Content management capabilities.</li>
+  <li>Promotion & discount code tools.</li>
+  <li>An easy-to-use checkout.</li>
+  <li>Search engine optimized code and layout.</li>
+  <li>Reporting tools & custom report features.</li>
+  <li>An integrated blog or articles section.</li>
+  <li>Email marketing features or integration.</li>
+</ul>  
 <p align="center">
 
   <a href="http://twitter.com/praveenjdjr">
@@ -43,7 +43,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
 
 ### My GitHub stats, Blogs and Current work
 
-<details>	
+<details> 
   <summary><b>🚀 My Blogs</b></summary>
     1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> Python Roadmap </a><br>
     2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> Markdown Cheat Sheet </a><br>
@@ -52,7 +52,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
     5.<a href ="https://dev.to/ankushsinghgandhi/tools-developers-should-know-4nk0"> Tools Developers Should Know<a><br>
 </details>
 
-<details>	
+<details> 
   <summary><b>💻 My YouTube Videos</b></summary>
     1.<a href ="https://www.youtube.com/watch?v=qBmRhRc_iw4&t=568s"> VIBRANCE UX (old video made in 2017)</a><br>
     2.<a href ="https://www.youtube.com/watch?v=5exF5Wr2h4o"> HacktoberFest2020- First Step to Start Your Open Source Journey</a><br>
@@ -60,7 +60,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
    
 </details>
 
-<details>	
+<details> 
   <summary><b>🎯  Currently Working on</b></summary>
     1.<a href ="https://github.com/AnkushSinghGandhi/JavaTutorials"> Java </a><br>
     2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
@@ -68,7 +68,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
     4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
 </details>
 
-<details>	
+<details> 
   <summary><b>📧 What's Next</b></summary>
     1. Adv. DSA <br>
     2. DBMS <br>
@@ -76,7 +76,7 @@ Now I started my channel again with the same enthusiasm with a goal to the uplif
     4. CS Theory (operating System, Networking, Compiler)<br>
 </details>
 
-<details>	
+<details> 
   <summary><b>💼 My Github Stats</b></summary>
 
 <img height="155em" src="https://play-lh.googleusercontent.com/-BpYgBxPgWlvlZIpuaYDzlc-TLsw5qmphfHlt9Y_BIMYuG8xvU5-M2RsnZouz2vDxw=s180-rw" />
