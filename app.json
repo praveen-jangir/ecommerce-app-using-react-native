@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "MMart",
+    "slug": "MMart",
+    "version": "1.14.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoxxx.png",
+    "splash": {
+      "image": "./assets/splashxx.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "icon": "./assets/logoxxx.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDz7GFCAVPTSnXnMgi4ydfY4WJjdF4YsoE"
+        }
+      },
+      "package": "com.MMart",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "INTERNET"
+      ],
+      "versionCode": 15
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
