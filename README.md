@@ -6,7 +6,7 @@
 
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://thumbs.dreamstime.com/b/google-play-store-icons-google-play-store-icons-editable-file-included-eps-176748269.jpg" style="max-width: 40%;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLk9ZxGLtt5_G86fEfeUdQ8NyO4Ig_mrXosFtnw74yfXM0vr8-yH98pxGQVgFhXzpme-Q&usqp=CAU" style="max-width: 40%;"/>
   </a></b></p>
 
 ### Glad to see you here!
